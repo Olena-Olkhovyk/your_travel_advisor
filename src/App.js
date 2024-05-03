@@ -3,7 +3,6 @@ import { CssBaseline, Grid } from "@mui/material";
 import Header from "./components/Header/Header";
 import List from "./components/List/List";
 import Map from "./components/Map/Map";
-import { Css } from "@mui/icons-material";
 function App() {
   return (
     <>
