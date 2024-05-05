@@ -14,7 +14,7 @@ const List = () => {
   const [rating, setRating] = useState("");
   return (
     <div sx={{ padding: "25px" }}>
-      <Typography variant="h4" sx={{ marginBottom: "25px" }}>
+      <Typography variant="h4" sx={{ marginBottom: "25px", margin: "8px" }}>
         Restaurants,Hotels &Attractions around you
       </Typography>
       <FormControl
